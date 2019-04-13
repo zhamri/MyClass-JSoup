@@ -29,3 +29,7 @@ https://github.com/prevenkumar/255392-STIW3054-A182-A2
 https://github.com/WongKinSin13/253123-STIW3054-A182-A2
 Total Assignment = 25
 ```
+
+## Main References:
+1. https://jsoup.org/
+2. https://github.com/jhy/jsoup/
